@@ -25,3 +25,6 @@ Multer: Modulo necesario para simplificar la subida de las imágenes al servidor
 Socket.io: librería que nos permite manejar eventos en tiempo real.
 
 Passport: Para el manejo de sesiones
+
+# AÑO: 2017.
+# Ramo: Optativo de Programacion Web.
