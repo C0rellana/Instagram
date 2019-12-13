@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/login.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+<link rel="stylesheet" href="css/estilo.css">
+
+<body>
+
+  <ul class="Barra">
+      <li><a  href="/">Inicio</a></li>
+      <li class="right"><a href="/registro">Registrate</a></li>
+  </ul>
+<div class="error hidden"></div>
+
+
+<br><br>
+
+<center>
+    <h1>Inicio de sesión</h1>
+   <form action="/login" method="post">
+
+              <table>
+                <tr>
+                  <th></th>
+                  <th></th> 
+                </tr>
+                <tr>
+<!--                   <td><p>Ingrese Correo:</p> </td>
+ -->                  <td><input placeholder="Correo" type="text" id="correo" name="correo" /></td>
+                  
+                </tr>
+                  <tr>
+<!--                   <td><p >Ingrese Contraseña:</p> </td>
+ -->                  <td> <input placeholder="Contraseña" type="password" id="password" name="password" /></td>
+                  
+                </tr>
+
+                  <tr>
+                  <td> </td>
+                  <td></td>
+                  
+                </tr>
+              </table>
+
+             <button id="boton-login">Enviar</button>
+          </form>
+
+
+</center>
+
+
+        
+
+
+
+
+  </body>
+</html>

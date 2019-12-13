@@ -1,0 +1,30 @@
+body {
+	font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.barra-navegacion {
+	background-color: red;
+	margin: 0;
+	padding: 1rem;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+	overflow: hidden;
+    padding: 0;
+}
+
+ul li {
+	float: left;
+	display: inline-block;
+}
+
+nav ul li a {
+    display: block;
+    width: 50%;
+    background-color: tomato;
+}
