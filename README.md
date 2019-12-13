@@ -1,4 +1,8 @@
 # Instagram
+
+Año: 2017.
+Ramo: Optativo de Programacion Web.
+
 Aplicacion para compartir imágenes en tiempo real y mediante la implementación de un hashtag, el cual sirve para buscar imágenes, Iimtacion de Instagram
 
 HTML: sigla en inglés de HyperText Markup Language (lenguaje de marcas de hipertexto),
@@ -26,5 +30,4 @@ Socket.io: librería que nos permite manejar eventos en tiempo real.
 
 Passport: Para el manejo de sesiones
 
-# AÑO: 2017.
-# Ramo: Optativo de Programacion Web.
+
